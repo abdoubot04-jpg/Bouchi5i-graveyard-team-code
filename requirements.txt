@@ -1,0 +1,10 @@
+# Dependencies used by main.py in بوت.موسيقى.zip
+httpx
+Flask
+google-play-scraper
+protobuf>=6.30.0
+protobuf-decoder
+pycryptodome
+aiohttp
+yt-dlp
+imageio-ffmpeg
